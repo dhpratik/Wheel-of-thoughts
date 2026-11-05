@@ -1,0 +1,14 @@
+E:\projects\WheelOfThoughts\bin\Debug\net8.0-windows\WheelOfThoughts.exe
+E:\projects\WheelOfThoughts\bin\Debug\net8.0-windows\WheelOfThoughts.deps.json
+E:\projects\WheelOfThoughts\bin\Debug\net8.0-windows\WheelOfThoughts.runtimeconfig.json
+E:\projects\WheelOfThoughts\bin\Debug\net8.0-windows\WheelOfThoughts.dll
+E:\projects\WheelOfThoughts\bin\Debug\net8.0-windows\WheelOfThoughts.pdb
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.AssemblyInfoInputs.cache
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.AssemblyInfo.cs
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.csproj.CoreCompileInputs.cache
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.dll
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\refint\WheelOfThoughts.dll
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.pdb
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\WheelOfThoughts.genruntimeconfig.cache
+E:\projects\WheelOfThoughts\obj\Debug\net8.0-windows\ref\WheelOfThoughts.dll
