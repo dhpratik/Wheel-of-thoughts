@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\WheelOfThoughts\\WheelOfThoughts.csproj",
+      "projectUniqueName": "G:\\GitHub\\Wheel-of-thoughts\\WheelOfThoughts\\WheelOfThoughts.csproj",
       "projectName": "WheelOfThoughts",
-      "projectPath": "E:\\projects\\WheelOfThoughts\\WheelOfThoughts.csproj",
+      "projectPath": "G:\\GitHub\\Wheel-of-thoughts\\WheelOfThoughts\\WheelOfThoughts.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\WheelOfThoughts\\obj\\",
+      "outputPath": "G:\\GitHub\\Wheel-of-thoughts\\WheelOfThoughts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WheelOfThoughts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f547385cc330ad3e985b1fd6136ca8e015fc6b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WheelOfThoughts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WheelOfThoughts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
